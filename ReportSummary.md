@@ -1,1 +1,1 @@
-This project explores factors that might be related to the graduation rate of students in an anonymous engineering program.
+This project first explores factors that might be related to students' graduation rate in an anonymous graduate program. During the analysis, a hidden factor, Covid-19, was discovered. It was tested to be significantly related to graduation rate. Inlcluding it as an additional predictor and using logistic regression, a model that can make predictions with high accuracy, precision, and recall was found.
